@@ -28,9 +28,9 @@
 ## Day 96/9.04.2021 ##
 
 
-- [Typing practice]() ⚡
+- [Typing practice](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/KEY%20BR/APRIL%209.JPG) ⚡
    
-- [Completed daily workout in LUMOSITY]() ⚡
+- [Completed daily workout in LUMOSITY](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Lumosity/April%209.JPG) ⚡
 
 - [Completed daily workout in ELEVATE]() ⚡
 
@@ -39,6 +39,6 @@
   - Chess
 - Watched TEDX video in the topic of "Build influence for a cause | RJ Balaji | TEDxMylapore" ⚡
 
-- [Solved skill rack problems in Beginner tracks SET-002 in python programming track]()
+- [Solved skill rack problems in Beginner tracks SET-002 in python programming track](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Skill%20rack/april%209.JPG)⚡
 
-- [Solved Hacker rank python problems and earned 1 star]()
+- [Solved Hacker rank python problems and earned 1 star](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Hacker%20rank/April%209.JPG)⚡
