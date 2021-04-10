@@ -43,3 +43,22 @@
 - [Solved skill rack problems in Beginner tracks SET-002 in python programming track](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Skill%20rack/april%209.JPG)⚡
 
 - [Solved Hacker rank python problems and earned 1 star](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Hacker%20rank/April%209.JPG)⚡
+
+---
+## Day 97/10.04.2021 ##
+
+
+- GAMES ⚡
+  - 2048
+  
+  - Chess
+
+- [Solved Hacker rank python problems and earned 1 star](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Hacker%20rank/april%2010%20second%20star.JPG)  
+
+- [Completed daily workout in ELEVATE](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Elevate/April%2010.jpeg)
+
+- [Typing practice](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/KEY%20BR/April%2010.JPG)
+
+- [Completed daily workout in LUMOSITY](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Lumosity/April%2010.JPG)
+
+- [Solved skill rack problems in Beginner tracks SET-002 in python programming track](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Skill%20rack/APRIL%2010.JPG)
