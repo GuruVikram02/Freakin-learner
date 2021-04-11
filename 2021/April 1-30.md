@@ -69,13 +69,13 @@
 
 
 - GAMES ⚡
-  - [2048]()
-  - [Chess]()
+  - [2048](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/2048/april%2011.JPG)
+  - [Chess](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/april%2011.JPG)
 
-- [Completed daily workout in ELEVATE]()⚡
+- [Completed daily workout in ELEVATE](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Elevate/april%2011.jpeg)⚡
 
-- [Typing practice]()⚡
+- [Typing practice](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/KEY%20BR/april%2011.JPG)⚡
 
-- [Completed daily workout in LUMOSITY]()⚡
+- [Completed daily workout in LUMOSITY](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Lumosity/april%2011.JPG)⚡
 
-- [Solved skill rack problems in Beginner tracks SET-002 in python programming track]()⚡
+- [Solved skill rack problems in Beginner tracks SET-002 in python programming track](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Skill%20rack/april%2011.JPG)⚡
