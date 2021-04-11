@@ -69,8 +69,8 @@
 
 
 - GAMES ⚡
-  - [2048](G:\TASK PROFF\TASK-PROOFS-2\TASK-PROOFS-1\2048\april 11.JPG)
-  - Chess
+  - [2048]()
+  - [Chess]()
 
 - [Completed daily workout in ELEVATE]()⚡
 
