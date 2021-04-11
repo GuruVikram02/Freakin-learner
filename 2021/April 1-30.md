@@ -62,3 +62,20 @@
 - [Completed daily workout in LUMOSITY](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Lumosity/April%2010.JPG)⚡
 
 - [Solved skill rack problems in Beginner tracks SET-002 in python programming track](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Skill%20rack/APRIL%2010.JPG)⚡
+
+
+---
+## Day 97/10.04.2021 ##
+
+
+- GAMES ⚡
+  - [2048](G:\TASK PROFF\TASK-PROOFS-2\TASK-PROOFS-1\2048\april 11.JPG)
+  - Chess
+
+- [Completed daily workout in ELEVATE]()⚡
+
+- [Typing practice]()⚡
+
+- [Completed daily workout in LUMOSITY]()⚡
+
+- [Solved skill rack problems in Beginner tracks SET-002 in python programming track]()⚡
