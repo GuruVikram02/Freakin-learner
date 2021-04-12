@@ -82,19 +82,19 @@
 
 
 ---
-## Day 98/10.04.2021 ##
+## Day 99/11.04.2021 ##
 
 
 - GAMES ⚡
-  - [2048]()
-  - [Chess]()
+  - [2048](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/2048/april%2012.JPG)
+  - [Chess](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/april%2012.JPG)
 
-- [Completed daily workout in ELEVATE]()⚡
+- [Completed daily workout in ELEVATE](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Elevate/APRIL%2012.jpeg)⚡
 
-- [Typing practice]()⚡
+- [Typing practice](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/KEY%20BR/april%2012.JPG)⚡
 
-- [Completed daily workout in LUMOSITY]()⚡
+- [Completed daily workout in LUMOSITY](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Lumosity/april%2012.JPG)⚡
 
-- [Solved two hacker rank problems in python]()⚡
+- [Solved two hacker rank problems in python](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Hacker%20rank/April%2012.JPG)⚡
 
-- [Watched a TED X video in the topic of "Why fit in a mold?"]()
+- [Watched a TED X video in the topic of "Why fit in a mold?"](https://youtu.be/49urAINwMd4)⚡
