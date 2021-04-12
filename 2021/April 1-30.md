@@ -79,3 +79,22 @@
 - [Completed daily workout in LUMOSITY](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Lumosity/april%2011.JPG)⚡
 
 - [Solved skill rack problems in Beginner tracks SET-002 in python programming track](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Skill%20rack/april%2011.JPG)⚡
+
+
+---
+## Day 98/10.04.2021 ##
+
+
+- GAMES ⚡
+  - [2048]()
+  - [Chess]()
+
+- [Completed daily workout in ELEVATE]()⚡
+
+- [Typing practice]()⚡
+
+- [Completed daily workout in LUMOSITY]()⚡
+
+- [Solved two hacker rank problems in python]()⚡
+
+- [Watched a TED X video in the topic of "Why fit in a mold?"]()
