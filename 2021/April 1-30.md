@@ -98,3 +98,22 @@
 - [Solved two hacker rank problems in python](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Hacker%20rank/April%2012.JPG)⚡
 
 - [Watched a TED X video in the topic of "Why fit in a mold?"](https://youtu.be/49urAINwMd4)⚡
+
+
+---
+## Day 100/12.04.2021 ##
+
+
+- GAMES ⚡
+  - [2048]()
+  - [Chess]()
+
+- [Completed daily workout in ELEVATE]()⚡
+
+- [Typing practice]()⚡
+
+- [Completed daily workout in LUMOSITY]()⚡
+
+- [Solved two hacker rank problems in python]()⚡
+
+- [Learnt basics of Java programming language]()⚡
