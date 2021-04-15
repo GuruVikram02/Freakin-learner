@@ -139,4 +139,4 @@
 
 - [Watched a ted talk in the topic of How I Overcame My Fear of Public Speaking | Danish Dhamani | TEDxKids@SMU ](https://youtu.be/80UVjkcxGmA)
 
-- [Learnt basics of Java programming language]()⚡
+- [Learnt basics of Java programming language Java - Basic Syntax](https://www.tutorialspoint.com/java/java_basic_syntax.htm)⚡
