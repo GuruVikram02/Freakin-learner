@@ -124,19 +124,19 @@
 
 
 - GAMES ⚡
-  - [2048]()
-  - [Chess]()
+  - [2048](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/2048/april%2015.JPG)
+  - [Chess](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/april%2015.JPG)
 
-- [Completed daily workout in ELEVATE]()⚡
+- [Completed daily workout in ELEVATE](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Elevate/April%2015.jpeg)⚡
 
-- [Typing practice]()⚡
+- [Typing practice](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/KEY%20BR/April%2015.JPG)⚡
 
-- [Completed daily workout in LUMOSITY]()⚡
+- [Completed daily workout in LUMOSITY](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Lumosity/April%2015.jpeg)⚡
 
-- [Solved a problem in HackerRank/challenges And earned a Star]()⚡
+- [Solved a problem in HackerRank/challenges And earned a Star](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Hacker%20rank/April%2015.JPG)⚡
 
-- [Solved 5 skill rack problems in kickstart SET-003 Using python]()
+- [Solved 5 skill rack problems in kickstart SET-003 Using python](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Skill%20rack/april%2015.JPG)⚡
 
-- [Watched a ted talk in the topic of How I Overcame My Fear of Public Speaking | Danish Dhamani | TEDxKids@SMU ](https://youtu.be/80UVjkcxGmA)
+- [Watched a ted talk in the topic of How I Overcame My Fear of Public Speaking | Danish Dhamani | TEDxKids@SMU ](https://youtu.be/80UVjkcxGmA)⚡
 
 - [Learnt basics of Java programming language Java - Basic Syntax](https://www.tutorialspoint.com/java/java_basic_syntax.htm)⚡
