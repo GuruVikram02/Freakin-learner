@@ -65,7 +65,7 @@
 
 
 ---
-## Day 98/10.04.2021 ##
+## Day 98/11.04.2021 ##
 
 
 - GAMES ⚡
@@ -82,7 +82,7 @@
 
 
 ---
-## Day 99/11.04.2021 ##
+## Day 99/13.04.2021 ##
 
 
 - GAMES ⚡
@@ -101,7 +101,7 @@
 
 
 ---
-## Day 100/13.04.2021 ##
+## Day 100/14.04.2021 ##
 
 
 - GAMES ⚡
@@ -117,3 +117,26 @@
 - [Solved a problem in HackerRank/challenges/nested-list/problem](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Hacker%20rank/april%2014.JPG)⚡
 
 - [Learnt basics of Java programming language](https://www.tutorialspoint.com/java/index.htm)⚡
+
+---
+
+## Day 101/15.04.2021 ##
+
+
+- GAMES ⚡
+  - [2048]()
+  - [Chess]()
+
+- [Completed daily workout in ELEVATE]()⚡
+
+- [Typing practice]()⚡
+
+- [Completed daily workout in LUMOSITY]()⚡
+
+- [Solved a problem in HackerRank/challenges And earned a Star]()⚡
+
+- [Solved 5 skill rack problems in kickstart SET-003 Using python]()
+
+- [Watched a ted talk in the topic of How I Overcame My Fear of Public Speaking | Danish Dhamani | TEDxKids@SMU ](https://youtu.be/80UVjkcxGmA)
+
+- [Learnt basics of Java programming language]()⚡
