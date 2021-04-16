@@ -144,19 +144,19 @@
 
 ---
 
-## Day 102/15.04.2021 ##
+## Day 102/16.04.2021 ##
 
 
 - GAMES ⚡
-  - [2048]()
-  - [Chess]()
+  - [2048](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/2048/April%2016.JPG)
+  - [Chess](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/April%2016.JPG)
 
-- [Completed daily workout in ELEVATE]()⚡
+- [Completed daily workout in ELEVATE](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Elevate/april%2016%20ele.jpeg)⚡
 
-- [Typing practice]()⚡
+- [Typing practice](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/KEY%20BR/April%2016.JPG)⚡
 
-- [Completed daily workout in LUMOSITY]()⚡
+- [Completed daily workout in LUMOSITY](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Lumosity/april%2016%20lum.jpeg)⚡
 
-- [Solved a problem in HackerRank/challenges/Lists]()⚡
+- [Solved a problem in HackerRank/challenges/Lists](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Hacker%20rank/April%2016.JPG)⚡
 
 - [Learnt basics of Java programming language Java - Basic Syntax](https://www.tutorialspoint.com/java/java_basic_syntax.htm)⚡
