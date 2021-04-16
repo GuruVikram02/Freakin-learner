@@ -140,3 +140,23 @@
 - [Watched a ted talk in the topic of How I Overcame My Fear of Public Speaking | Danish Dhamani | TEDxKids@SMU ](https://youtu.be/80UVjkcxGmA)⚡
 
 - [Learnt basics of Java programming language Java - Basic Syntax](https://www.tutorialspoint.com/java/java_basic_syntax.htm)⚡
+
+
+---
+
+## Day 102/15.04.2021 ##
+
+
+- GAMES ⚡
+  - [2048]()
+  - [Chess]()
+
+- [Completed daily workout in ELEVATE]()⚡
+
+- [Typing practice]()⚡
+
+- [Completed daily workout in LUMOSITY]()⚡
+
+- [Solved a problem in HackerRank/challenges/Lists]()⚡
+
+- [Learnt basics of Java programming language Java - Basic Syntax](https://www.tutorialspoint.com/java/java_basic_syntax.htm)⚡
