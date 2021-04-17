@@ -160,3 +160,19 @@
 - [Solved a problem in HackerRank/challenges/Lists](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Hacker%20rank/April%2016.JPG)⚡
 
 - [Learnt basics of Java programming language Java - Basic Syntax](https://www.tutorialspoint.com/java/java_basic_syntax.htm)⚡
+
+
+---
+
+## Day 102/16.04.2021 ##
+
+
+- GAMES ⚡
+  - [2048]()
+  - [Chess]()
+
+- [Completed daily workout in ELEVATE]()⚡
+
+- [Typing practice]()⚡
+
+- [Completed daily workout in LUMOSITY]()⚡
