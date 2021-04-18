@@ -184,11 +184,11 @@
 
 
 - GAMES ⚡
-  - [2048]()
-  - [Chess]()
+  - [2048](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/2048/April%2018.JPG)
+  - [Chess](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/April%2018.JPG)
 
-- [Completed daily workout in ELEVATE]()⚡
+- [Completed daily workout in ELEVATE](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Elevate/Elevate%20April%2018.jpeg)⚡
 
-- [Typing practice]()⚡
+- [Typing practice](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/KEY%20BR/April%2018.JPG)⚡
 
-- [Completed daily workout in LUMOSITY]()⚡
+- [Completed daily workout in LUMOSITY](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Lumosity/Lumosity%20april%2018.jpeg)⚡
