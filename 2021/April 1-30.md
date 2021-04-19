@@ -192,3 +192,19 @@
 - [Typing practice](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/KEY%20BR/April%2018.JPG)⚡
 
 - [Completed daily workout in LUMOSITY](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Lumosity/Lumosity%20april%2018.jpeg)⚡
+
+
+---
+
+## Day 104/18.04.2021 ##
+
+
+- GAMES ⚡
+  - [2048]()
+  - [Chess]()
+
+- [Completed daily workout in ELEVATE]()⚡
+
+- [Typing practice]()⚡
+
+- [Completed daily workout in LUMOSITY]()⚡
