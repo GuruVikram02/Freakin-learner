@@ -225,7 +225,7 @@
 
 - [Completed daily workout in LUMOSITY]()⚡
 
-- [Solved a problem in HackerRank]()⚡
+- [Solved a problem in HackerRank ]()⚡
 
 - [Solved 5 skill rack problems in kickstart SET-003 Using python]()⚡
 
