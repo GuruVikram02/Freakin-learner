@@ -210,3 +210,25 @@
 - [Completed daily workout in LUMOSITY](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Lumosity/April%2019%20.jpeg)⚡
 
 - [Watched a ted-x video in the topic of "After watching this, your brain will not be the same | Lara Boyd | TEDxVancouver"](https://youtu.be/LNHBMFCzznE)⚡
+
+---
+
+## Day 106/20.04.2021 ##
+
+- GAMES ⚡
+  - [2048]()
+  - [Chess]()
+
+- [Completed daily workout in ELEVATE]()⚡
+
+- [Typing practice]()⚡
+
+- [Completed daily workout in LUMOSITY]()⚡
+
+- [Solved a problem in HackerRank]()⚡
+
+- [Solved 5 skill rack problems in kickstart SET-003 Using python]()⚡
+
+- [Watched a ted talk in the topic of "    "]()⚡
+
+- [Learnt basics of Java programming language]()⚡
