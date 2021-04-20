@@ -229,6 +229,6 @@
 
 - [Solved 5 skill rack problems in kickstart SET-003 Using python]()⚡
 
-- [Watched a ted talk in the topic of "    "]()⚡
+- [Watched a ted talk in the topic of "The skill of self confidence | Dr. Ivan Joseph | TEDxRyersonU"]()⚡
 
 - [Learnt basics of Java programming language]()⚡
