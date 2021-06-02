@@ -41,3 +41,51 @@
 - Ted talk
     
     - [Intermittent Fasting: Transformational Technique | Cynthia Thurlow | TEDxGreenville](https://youtu.be/A6Dkt7zyImk)
+
+
+---
+
+## Day 125/2.06.2021 ##
+
+- GAMES ⚡
+  - [2048]()
+  - [Chess](www.chess.com)
+    - [Played Daily Puzzles]()
+    - [Played Puzzles battle]()
+    - [Played Puzzles rush]()
+    - [Played Puzzles]()
+    - [Daily regular chess]()
+
+- [Completed daily workout in ELEVATE]()⚡
+
+- [Typing practice]()⚡
+
+- [Completed daily workout in LUMOSITY]()⚡
+
+- [Solved 10 skill rack problems Python3x standard module]()⚡
+
+- [Solved a Hacker-rank problem in python in "Minion game"]()⚡
+
+#### Learning ⚡ ####
+
+- [15 Days of Code | Day 6 | Python Warriors[Tuples]](https://youtu.be/7c33xQ93MDA)
+
+#### Blogs ⚡ #### 
+
+📖 [A Devastating Memo](https://senwhitehouse.medium.com/a-devastating-memo-e0f2740ec8b9)
+
+📖 [Remembering ‘Iron Mike’](https://dodgers.mlblogs.com/remembering-iron-mike-marshall-2a0e08d7005)
+
+#### Videos ⚡ ####
+
+- Watched a Video in the topic:
+    - [Gravitas: Nestle's long-list of unhealthy food products](https://youtu.be/z-xsm3i8QJU)
+
+    - [Gravitas: The virus reaches India's children](https://youtu.be/eQ9styDz5mk)
+
+    - [Photographing Lions With Technology | National Geographic](https://youtu.be/KCBu4X4J3Rc)
+
+- Ted talk
+      
+    - [How To Trick Your Brain Into Falling Asleep | Jim Donovan | TEDxYoungstown](https://youtu.be/A5dE25ANU0k)
+
