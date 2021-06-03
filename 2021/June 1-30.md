@@ -91,7 +91,7 @@
 
 ---
 
-## Day /.05.2021 ##
+## Day 126/3.06.2021 ##
 
 - GAMES ⚡
   - [2048](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/2048/June%202021/June%203.JPG)
