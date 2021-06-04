@@ -114,3 +114,43 @@
 
 - [Watched a Video in the topic:Inside the mind of a master procrastinator | Tim Urban](https://youtu.be/arj7oStGLkU)⚡
 
+---
+
+## Day /.05.2021 ##
+
+- GAMES ⚡
+  - [2048]()
+  - [Chess](www.chess.com)
+    - [Played Daily Puzzles]()
+    - [Played Puzzles battle]()
+    - [Played Puzzles rush]()
+    - [Played Puzzles]()
+    - [Daily regular chess]()
+
+- [Completed daily workout in ELEVATE]()⚡
+
+- [Typing practice]()⚡
+
+- [Completed daily workout in LUMOSITY]()⚡
+
+- [Solved 10 skill rack problems Python3x standard module]()⚡
+
+- [Solved a Hacker-rank problem in python in "itertools"]()⚡
+
+#### Learning ⚡ ####
+
+- [15 Days of Code | Day 7 | Python Warriors [DICTIONARY] ](https://youtu.be/4ZKQ-1nYMLI)
+
+#### Videos ⚡ ####
+
+- Watched a Video in the topic:
+    - [Gravitas: Xi Jinping seeks "Loveable" image for China](https://youtu.be/swVXgkH1PHo)
+
+    - [Gravitas: Is WhatsApp tricking users into consent?](https://youtu.be/LTGobc7ypTo)
+
+    - [Gravitas: Saudi Arabia restricts loudspeakers at mosques](https://youtu.be/OvcHrCjdaWk)
+
+    - [Israel Jebasingh | Josh Talks Tamil](https://youtu.be/fc42ElAd55A)
+- Ted talk
+      
+    - [How to speak so that people want to listen | Julian Treasure](https://youtu.be/eIho2S0ZahI)
