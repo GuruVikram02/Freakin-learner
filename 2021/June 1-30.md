@@ -161,18 +161,18 @@
 ## Day 128/5.06.2021 ##
 
 - GAMES ⚡
-  - [2048]()
+  - [2048](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/2048/June%202021/June%205.JPG)
   - [Chess](www.chess.com)
-    - [Played Daily Puzzles]()
-    - [Played Puzzles battle]()
-    - [Played Puzzles rush]()
-    - [Played Puzzles]()
-    - [Daily regular chess]()
+    - [Played Daily Puzzles](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/June%202021/June%205/Daily%20puzzle.JPG)
+    - [Played Puzzles battle](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/June%202021/June%205/Battle.JPG)
+    - [Played Puzzles rush](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/June%202021/June%205/Rush.JPG)
+    - [Played Puzzles](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/June%202021/June%205/Puzzles.JPG)
+    - [Daily regular chess](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/June%202021/June%205/Daily%20chess.JPG)
 
-- [Completed daily workout in ELEVATE]()⚡
+- [Completed daily workout in ELEVATE](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Elevate/June%202021/June%205%20ele.jpeg)⚡
 
-- [Typing practice]()⚡
+- [Typing practice](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/KEY%20BR/June%202021/June%205.JPG)⚡
 
-- [Completed daily workout in LUMOSITY]()⚡   
+- [Completed daily workout in LUMOSITY](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Lumosity/June%202021/June%205%20lum.jpeg)⚡   
 
 - [Watched a Video in Ted Talk in the topic: A student turned to be a meaningful voice of the country! | Mirchi Vijay | TEDxSKCET)[https://youtu.be/OIAWRg8bAic]⚡
