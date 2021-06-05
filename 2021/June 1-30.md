@@ -154,3 +154,25 @@
 - Ted talk
       
     - [How to speak so that people want to listen | Julian Treasure](https://youtu.be/eIho2S0ZahI)
+
+    
+---
+
+## Day 128/5.06.2021 ##
+
+- GAMES ⚡
+  - [2048]()
+  - [Chess](www.chess.com)
+    - [Played Daily Puzzles]()
+    - [Played Puzzles battle]()
+    - [Played Puzzles rush]()
+    - [Played Puzzles]()
+    - [Daily regular chess]()
+
+- [Completed daily workout in ELEVATE]()⚡
+
+- [Typing practice]()⚡
+
+- [Completed daily workout in LUMOSITY]()⚡   
+
+- [Watched a Video in Ted Talk in the topic: A student turned to be a meaningful voice of the country! | Mirchi Vijay | TEDxSKCET)[https://youtu.be/OIAWRg8bAic]⚡
