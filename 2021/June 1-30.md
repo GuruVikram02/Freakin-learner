@@ -176,3 +176,19 @@
 - [Completed daily workout in LUMOSITY](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Lumosity/June%202021/June%205%20lum.jpeg)⚡   
 
 - [Watched a Video in Ted Talk in the topic: A student turned to be a meaningful voice of the country! | Mirchi Vijay | TEDxSKCET](https://youtu.be/OIAWRg8bAic)⚡
+
+---
+
+## Day 129/6.06.2021 ##
+
+- GAMES ⚡
+  - [2048]()
+  - [Chess]()
+
+- [Completed daily workout in ELEVATE]()⚡
+
+- [Typing practice]()⚡
+
+- [Completed daily workout in LUMOSITY]()⚡   
+
+- [Watched a Video in Ted Talk in the topic ][()⚡
