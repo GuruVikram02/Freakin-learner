@@ -192,3 +192,41 @@
 - [Completed daily workout in LUMOSITY](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Lumosity/June%202021/June%206%20lum.jpeg)⚡   
 
 - [Watched a Video in Ted Talk in the topic:The next outbreak? We’re not ready | Bill Gates ](https://youtu.be/6Af6b_wyiwI)⚡
+
+---
+
+## Day /.05.2021 ##
+
+- GAMES ⚡
+  - [2048]()
+  - [Chess](www.chess.com)
+    - [Played Daily Puzzles]()
+    - [Played Puzzles battle]()
+    - [Played Puzzles rush]()
+    - [Played Puzzles]()
+    - [Daily regular chess]()
+
+- [Completed daily workout in ELEVATE]()⚡
+
+- [Typing practice]()⚡
+
+- [Completed daily workout in LUMOSITY]()⚡
+
+- [Solved skill rack problems in c programming language]()⚡
+
+- [Solved a Hacker-rank problem in python in "Counter.list()"]()⚡
+
+#### Learning ⚡ ####
+
+- [15 Days of Code | Day  | Python Warriors]()
+
+#### Videos ⚡ ####
+
+- Watched a Video in the topic:
+    - []()
+
+    - []()
+
+- Ted talk
+      
+    - []()
