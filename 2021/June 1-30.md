@@ -198,35 +198,31 @@
 ## Day /.05.2021 ##
 
 - GAMES ⚡
-  - [2048]()
+  - [2048](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/2048/June%202021/June%207.JPG)
   - [Chess](www.chess.com)
-    - [Played Daily Puzzles]()
-    - [Played Puzzles battle]()
-    - [Played Puzzles rush]()
-    - [Played Puzzles]()
-    - [Daily regular chess]()
+    - [Played Daily Puzzles](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/June%202021/June%207/Puzzles.JPG)
+    - [Played Puzzles battle](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/June%202021/June%207/Battle.JPG)
+    - [Played Puzzles rush](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/June%202021/June%207/Rush.JPG)
+    - [Played Puzzles](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/June%202021/June%207/Puzzles.JPG)
+    - [Daily regular chess](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/June%202021/June%207/Daily%20chess.JPG)
 
-- [Completed daily workout in ELEVATE]()⚡
+- [Completed daily workout in ELEVATE](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Elevate/June%202021/June%207.jpeg)⚡
 
-- [Typing practice]()⚡
+- [Typing practice](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/KEY%20BR/June%202021/June%207.JPG)⚡
 
-- [Completed daily workout in LUMOSITY]()⚡
+- [Completed daily workout in LUMOSITY](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/KEY%20BR/June%202021/June%207.JPG)⚡
 
-- [Solved skill rack problems in c programming language]()⚡
+- [Solved skill rack problems in c programming language](https://github.com/GuruVikram02/TASK-PROOFS/tree/master/Skill%20rack/June%202021/June%205)⚡
 
-- [Solved a Hacker-rank problem in python in "Counter.list()"]()⚡
-
-#### Learning ⚡ ####
-
-- [15 Days of Code | Day  | Python Warriors]()
+- [Solved a Hacker-rank problem in python in "counter.list()"](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Hacker%20rank/June%202021/June%207.JPG)⚡
 
 #### Videos ⚡ ####
 
 - Watched a Video in the topic:
-    - []()
+    - [Gravitas: In China, there are no women to marry](https://youtu.be/ITbjC3meyIE)
 
-    - []()
+    - [Gravitas Plus: The secret to happiness](https://youtu.be/wkZ7Dh2DfbI)
 
 - Ted talk
       
-    - []()
+    - [My escape from North Korea | Hyeonseo Lee](https://youtu.be/PdxPCeWw75k)
