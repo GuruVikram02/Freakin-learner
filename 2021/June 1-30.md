@@ -259,3 +259,4 @@
 
 - Ted talk
     - [What is the best diet for humans? | Eran Segal | TEDxRuppin](https://youtu.be/0z03xkwFbw4)
+ >proofs will be uploaded on 8/6/2021   
