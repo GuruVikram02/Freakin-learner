@@ -226,3 +226,36 @@
 - Ted talk
       
     - [My escape from North Korea | Hyeonseo Lee](https://youtu.be/PdxPCeWw75k)
+
+    ---
+
+## Day 131/8.06.2021 ##
+
+- GAMES ⚡
+  - [2048]()
+  - [Chess](www.chess.com)
+    - [Played Daily Puzzles]()
+    - [Played Puzzles battle]()
+    - [Played Puzzles rush]()
+    - [Played Puzzles]()
+    - [Daily regular chess]()
+
+- [Completed daily workout in ELEVATE]()⚡
+
+- [Typing practice]()⚡
+
+- [Completed daily workout in LUMOSITY]()⚡
+
+- [Solved 10 skill rack problems Python3x standard module]()⚡
+
+- [Solved a Hacker-rank problem in python in "Permutations"]()⚡
+
+#### Videos ⚡ ####
+
+- Watched a Video in the topic:
+    - [Gravitas: China celebrates India's suffering](https://youtu.be/KlXuz5QpJfI)
+    
+    - [Gravitas: Filipino diplomat swears at China](https://youtu.be/qtVj4e0dClI)
+
+- Ted talk
+    - [What is the best diet for humans? | Eran Segal | TEDxRuppin](https://youtu.be/0z03xkwFbw4)
