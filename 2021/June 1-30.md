@@ -260,3 +260,41 @@
 - Ted talk
     - [What is the best diet for humans? | Eran Segal | TEDxRuppin](https://youtu.be/0z03xkwFbw4)
  >proofs will be uploaded on 8/6/2021 due to low network speed
+
+---
+
+## Day 132/9.06.2021 ##
+
+- GAMES ⚡
+  - [2048]()
+  - [Chess](www.chess.com)
+    - [Played Daily Puzzles]()
+    - [Played Puzzles battle]()
+    - [Played Puzzles rush]()
+    - [Played Puzzles]()
+    - [Daily regular chess]()
+
+- [Completed daily workout in ELEVATE]()⚡
+
+- [Typing practice]()⚡
+
+- [Completed daily workout in LUMOSITY]()⚡
+
+- [Solved few skill rack problems]()⚡
+
+- [Solved a Hacker-rank problem in python in "Polar coordinates"]()⚡
+
+#### Learning ⚡ ####
+
+- [15 Days of Code | Day 8 | Python Warriors](https://youtu.be/j5gPB2cxlsc)
+
+#### Videos ⚡ ####
+
+- Watched a Video in the topic:
+    - [Gravitas: Most sophisticated sting op in history](https://youtu.be/pRbdDsprPTc)
+
+    - [Gravitas: Did the United States suspect a lab leak in Wuhan last year?](https://youtu.be/jh1My1x_SCM)
+
+- Ted talk
+      
+    - [Vetrimaran at TEDxREC](https://youtu.be/Gc2-ayMAykw)
