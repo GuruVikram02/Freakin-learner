@@ -232,23 +232,23 @@
 ## Day 131/8.06.2021 ##
 
 - GAMES ⚡
-  - [2048]()
+  - [2048](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/2048/June%202021/June%208.JPG)
   - [Chess](www.chess.com)
-    - [Played Daily Puzzles]()
-    - [Played Puzzles battle]()
-    - [Played Puzzles rush]()
-    - [Played Puzzles]()
-    - [Daily regular chess]()
+    - [Played Daily Puzzles](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/June%202021/June%208/Daily%20puzzles.JPG)
+    - [Played Puzzles battle](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/June%202021/June%208/Battle.JPG)
+    - [Played Puzzles rush](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/June%202021/June%208/Rush.JPG)
+    - [Played Puzzles](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/June%202021/June%208/Puzzles.JPG)
+    - [Daily regular chess](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/June%202021/June%208/Regular%20chess.JPG)
 
-- [Completed daily workout in ELEVATE]()⚡
+- [Completed daily workout in ELEVATE](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Elevate/June%202021/June%208.jpeg)⚡
 
-- [Typing practice]()⚡
+- [Typing practice](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/KEY%20BR/June%202021/June%209.JPG)⚡
 
 - [Completed daily workout in LUMOSITY]()⚡
 
-- [Solved 10 skill rack problems Python3x standard module]()⚡
+- [Solved few skill rack problem using C-language](https://github.com/GuruVikram02/TASK-PROOFS/tree/master/Skill%20rack/June%202021/June%208)⚡
 
-- [Solved a Hacker-rank problem in python in "Permutations"]()⚡
+- [Solved a Hacker-rank problem in python in "Permutations"](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Hacker%20rank/June%202021/June%208.JPG)⚡
 
 #### Videos ⚡ ####
 
@@ -259,30 +259,30 @@
 
 - Ted talk
     - [What is the best diet for humans? | Eran Segal | TEDxRuppin](https://youtu.be/0z03xkwFbw4)
- >proofs will be uploaded on 8/6/2021 due to low network speed
+ >proofs uploaded on 8/6/2021 due to low network speed
 
 ---
 
 ## Day 132/9.06.2021 ##
 
 - GAMES ⚡
-  - [2048]()
+  - [2048](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/2048/June%202021/June%209.JPG)
   - [Chess](www.chess.com)
-    - [Played Daily Puzzles]()
-    - [Played Puzzles battle]()
-    - [Played Puzzles rush]()
-    - [Played Puzzles]()
-    - [Daily regular chess]()
+    - [Played Daily Puzzles](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/June%202021/June%209/Daily%20puzzles.JPG)
+    - [Played Puzzles battle](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/June%202021/June%209/battle.JPG)
+    - [Played Puzzles rush](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/June%202021/June%209/rush.JPG)
+    - [Played Puzzles](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/June%202021/June%209/Puzzles.JPG)
+    - [Daily regular chess](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/June%202021/June%209/Regular%20chess.JPG)
 
-- [Completed daily workout in ELEVATE]()⚡
+- [Completed daily workout in ELEVATE](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Elevate/June%202021/June%209.jpeg)⚡
 
-- [Typing practice]()⚡
+- [Typing practice](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/KEY%20BR/June%202021/June%209.JPG)⚡
 
-- [Completed daily workout in LUMOSITY]()⚡
+- [Completed daily workout in LUMOSITY](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Lumosity/June%202021/June%209.JPG)⚡
 
-- [Solved few skill rack problems]()⚡
+- [Solved few skill rack problems in c language](https://github.com/GuruVikram02/TASK-PROOFS/tree/master/Skill%20rack/June%202021/June%209)⚡
 
-- [Solved a Hacker-rank problem in python in "Polar coordinates"]()⚡
+- [Solved a Hacker-rank problem in python in "Polar coordinates"](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Hacker%20rank/June%202021/June%208.JPG)⚡
 
 #### Learning ⚡ ####
 
