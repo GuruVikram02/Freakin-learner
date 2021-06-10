@@ -298,3 +298,43 @@
 - Ted talk
       
     - [Vetrimaran at TEDxREC](https://youtu.be/Gc2-ayMAykw)
+
+---
+
+## Day /.05.2021 ##
+
+- GAMES ⚡
+  - [2048]()
+  - [Chess](www.chess.com)
+    - [Played Daily Puzzles]()
+    - [Played Puzzles battle]()
+    - [Played Puzzles rush]()
+    - [Played Puzzles]()
+    - [Daily regular chess]()
+
+- [Completed daily workout in ELEVATE]()⚡
+
+- [Typing practice]()⚡
+
+- [Completed daily workout in LUMOSITY]()⚡
+
+- [Solved 10 skill rack problems Python3x standard module]()⚡
+
+- [Solved a Hacker-rank problem in python in ""]()⚡
+
+#### Learning ⚡ ####
+
+- [15 Days of Code | Day 9 | Python Warriors [FUNCTIONS]](https://youtu.be/Q6GlmfB_JgA)
+
+#### Videos ⚡ ####
+
+- Watched a Video in the topic:
+    - [Gravitas: Biden rallying democracies for second Cold War?](https://youtu.be/GqLU_WkDXZ4)
+
+    - [Gravitas: Chinese students hold college principal hostage](https://youtu.be/Oibr3eY9M64)
+
+    - [Gravitas: Has India opened a channel with the Taliban?](https://youtu.be/C0HCn0Hrv9k)
+
+- Ted talk
+      
+    - [A feminist reimagining of Kenya’s public transport | Naomi Mwaura](https://youtu.be/RUYmYE7ZJ_E)
