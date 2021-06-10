@@ -304,23 +304,23 @@
 ## Day /.05.2021 ##
 
 - GAMES ⚡
-  - [2048]()
+  - [2048](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/2048/June%202021/June%2010.JPG)
   - [Chess](www.chess.com)
-    - [Played Daily Puzzles]()
-    - [Played Puzzles battle]()
-    - [Played Puzzles rush]()
-    - [Played Puzzles]()
-    - [Daily regular chess]()
+    - [Played Daily Puzzles](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/June%202021/June%2010/Daily%20puzzle.JPG)
+    - [Played Puzzles battle](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/June%202021/June%2010/Battle.JPG)
+    - [Played Puzzles rush](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/June%202021/June%2010/Rush.JPG)
+    - [Played Puzzles](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/June%202021/June%2010/Puzzles.JPG)
+    - [Daily regular chess](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/June%202021/June%2010/Regular%20chess.JPG)
 
-- [Completed daily workout in ELEVATE]()⚡
+- [Completed daily workout in ELEVATE](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Elevate/June%202021/June%2010%20ele.jpeg)⚡
 
-- [Typing practice]()⚡
+- [Typing practice](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/KEY%20BR/June%202021/June%2010.JPG)⚡
 
-- [Completed daily workout in LUMOSITY]()⚡
+- [Completed daily workout in LUMOSITY](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Lumosity/June%202021/June%2010.jpeg)⚡
 
-- [Solved 10 skill rack problems Python3x standard module]()⚡
+- [Solved skill rack problems using c language](https://github.com/GuruVikram02/TASK-PROOFS/tree/master/Skill%20rack/June%202021/June%2010)⚡
 
-- [Solved a Hacker-rank problem in python in ""]()⚡
+- [Solved a Hacker-rank problem in python in "Introduction to Sets"](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Hacker%20rank/June%202021/June%2010.JPG)⚡
 
 #### Learning ⚡ ####
 
