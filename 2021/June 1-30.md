@@ -341,30 +341,30 @@
 
 ---
 
-## Day /.05.2021 ##
+## Day 134/11.06.2021 ##
 
 - GAMES ⚡
-  - [2048]()
+  - [2048](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/2048/June%202021/June%2011.JPG)
   - [Chess](www.chess.com)
-    - [Played Daily Puzzles]()
-    - [Played Puzzles battle]()
-    - [Played Puzzles rush]()
-    - [Played Puzzles]()
-    - [Daily regular chess]()
+    - [Played Daily Puzzles](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/June%202021/June%2011/Daily%20puzzles.JPG)
+    - [Played Puzzles battle](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/June%202021/June%2011/Battle.JPG)
+    - [Played Puzzles rush](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/June%202021/June%2011/Rush.JPG)
+    - [Played Puzzles](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/June%202021/June%2011/Puzzles.JPG)
+    - [Daily regular chess](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/June%202021/June%2011/Regular%20chess.JPG)
 
-- [Completed daily workout in ELEVATE]()⚡
+- [Completed daily workout in ELEVATE](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Elevate/June%202021/June%2011%20ele.jpeg)⚡
 
-- [Typing practice]()⚡
+- [Typing practice](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/KEY%20BR/June%202021/June%2011.JPG)⚡
 
-- [Completed daily workout in LUMOSITY]()⚡
+- [Completed daily workout in LUMOSITY](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Lumosity/June%202021/June%2011.jpeg)⚡
 
-- [Solved 10 skill rack problems Python3x standard module]()⚡
+- [Solved few skill rack problems using c language](https://github.com/GuruVikram02/TASK-PROOFS/tree/master/Skill%20rack/June%202021/June%2011)⚡
 
-- [Solved a Hacker-rank problem in python in ""]()⚡
+- [Solved a Hacker-rank problem in python in "Dicttools"](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Hacker%20rank/June%202021/June%2011.JPG)⚡
 
 #### Learning ⚡ ####
 
-- [15 Days of Code | Day  | Python Warriors]()
+- [15 Days of Code | Day 10 | Python Warriors [LIST COMPREHENSIONS]](https://youtu.be/aDMM8wfQbm4)
 
 #### Videos ⚡ ####
 
