@@ -338,3 +338,42 @@
 - Ted talk
       
     - [A feminist reimagining of Kenya’s public transport | Naomi Mwaura](https://youtu.be/RUYmYE7ZJ_E)
+
+---
+
+## Day /.05.2021 ##
+
+- GAMES ⚡
+  - [2048]()
+  - [Chess](www.chess.com)
+    - [Played Daily Puzzles]()
+    - [Played Puzzles battle]()
+    - [Played Puzzles rush]()
+    - [Played Puzzles]()
+    - [Daily regular chess]()
+
+- [Completed daily workout in ELEVATE]()⚡
+
+- [Typing practice]()⚡
+
+- [Completed daily workout in LUMOSITY]()⚡
+
+- [Solved 10 skill rack problems Python3x standard module]()⚡
+
+- [Solved a Hacker-rank problem in python in ""]()⚡
+
+#### Learning ⚡ ####
+
+- [15 Days of Code | Day  | Python Warriors]()
+
+#### Videos ⚡ ####
+
+- Watched a Video in the topic:
+    - [Gravitas: Has the British Queen been 'cancelled'?](https://youtu.be/iuGavAJLtpw)
+
+    - [Ayurveda Over Western Medicines | Dr. B.M HEGDE | TEDxMITE](https://youtu.be/HzTvEK1sVi0)
+     
+    - [Gravitas: Nigeria switches to India's Koo app after Twitter ban](https://youtu.be/DxQfEOUO5eQ)
+- Ted talk
+      
+    - [India: Chinese intruder arrested near Bangladesh border | Han Junwe | English News | WION World News](https://youtu.be/HzRZ4XKsiU4)    
