@@ -377,3 +377,21 @@
 - Ted talk
       
     - [India: Chinese intruder arrested near Bangladesh border | Han Junwe | English News | WION World News](https://youtu.be/HzRZ4XKsiU4)    
+
+
+    
+---
+
+## Day 135/12.06.2021 ##
+
+- GAMES ⚡
+  - [2048]()
+  - [Chess]()
+
+- [Completed daily workout in ELEVATE]()⚡
+
+- [Typing practice]()⚡
+
+- [Completed daily workout in LUMOSITY]()⚡   
+
+- [Watched a Video in Ted Talk in the topic ][]⚡
