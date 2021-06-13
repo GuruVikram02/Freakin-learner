@@ -395,3 +395,20 @@
 - [Completed daily workout in LUMOSITY](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Lumosity/June%202021/June%2012.JPG)⚡   
 
 - [Watched a Video in Ted Talk in the topic Why healthy bones are about so much more than milk | Body Stuff with Dr. Jen Gunter](https://youtu.be/1Zh045t0xcE)⚡
+
+
+---
+
+## Day 136/13.06.2021 ##
+
+- GAMES ⚡
+  - [2048]()
+  - [Chess]()
+
+- [Completed daily workout in ELEVATE]()⚡
+
+- [Typing practice]()⚡
+
+- [Completed daily workout in LUMOSITY]()⚡   
+
+- [Watched a Video in Ted Talk in the topic How books can open your mind | Lisa Bu ](https://youtu.be/6ibCtsHgz3Y)⚡
