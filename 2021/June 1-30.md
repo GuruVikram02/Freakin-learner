@@ -402,13 +402,13 @@
 ## Day 136/13.06.2021 ##
 
 - GAMES ⚡
-  - [2048]()
-  - [Chess]()
+  - [2048](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/2048/June%202021/June%2013.JPG)
+  - [Chess](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/June%202021/June%2013.JPG)
 
-- [Completed daily workout in ELEVATE]()⚡
+- [Completed daily workout in ELEVATE](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Elevate/June%202021/June%2013.jpeg)⚡
 
-- [Typing practice]()⚡
+- [Typing practice](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/KEY%20BR/June%202021/June%2013.JPG)⚡
 
-- [Completed daily workout in LUMOSITY]()⚡   
+- [Completed daily workout in LUMOSITY](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Lumosity/June%202021/june%2013%20lum.jpeg)⚡   
 
 - [Watched a Video in Ted Talk in the topic How books can open your mind | Lisa Bu ](https://youtu.be/6ibCtsHgz3Y)⚡
