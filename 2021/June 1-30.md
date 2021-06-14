@@ -412,3 +412,38 @@
 - [Completed daily workout in LUMOSITY](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Lumosity/June%202021/june%2013%20lum.jpeg)⚡   
 
 - [Watched a Video in Ted Talk in the topic How books can open your mind | Lisa Bu ](https://youtu.be/6ibCtsHgz3Y)⚡
+
+---
+
+## Day 137/14.06.2021 ##
+
+- GAMES ⚡
+  - [2048]()
+  - [Chess](www.chess.com)
+    - [Played Daily Puzzles]()
+    - [Played Puzzles battle]()
+    - [Played Puzzles rush]()
+    - [Played Puzzles]()
+    - [Daily regular chess]()
+
+- [Completed daily workout in ELEVATE]()⚡
+
+- [Typing practice]()⚡
+
+- [Completed daily workout in LUMOSITY]()⚡
+
+- [Solved few problems in skill rack]()⚡
+
+- [Solved a Hacker-rank problem in python in "Calendar"]()⚡
+
+#### Videos ⚡ ####
+
+- Watched a Video in the topic:
+    - [Gravitas Plus: UFOs, Aliens & Science](https://youtu.be/AX-mifWsRYE)
+
+    - [Putin says Russia ready to handover cybercriminals to US | Biden-Putin Summit | English World News](https://youtu.be/IUkR_CRmdbo)
+
+- Ted talk
+      
+    - [Can you trust your memory?](https://www.ted.com/talks/sheila_marie_orfano_can_you_trust_your_memory#t-124297)
+>Task proofs will be updated on 14/06/2021 due to Git push issues    
