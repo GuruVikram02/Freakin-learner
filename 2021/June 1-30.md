@@ -418,23 +418,23 @@
 ## Day 137/14.06.2021 ##
 
 - GAMES ⚡
-  - [2048]()
+  - [2048](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/2048/June%202021/June%2014.JPG)
   - [Chess](www.chess.com)
-    - [Played Daily Puzzles]()
-    - [Played Puzzles battle]()
-    - [Played Puzzles rush]()
-    - [Played Puzzles]()
-    - [Daily regular chess]()
+    - [Played Daily Puzzles](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/June%202021/June%2014/1%20daily%20puzzle.JPG)
+    - [Played Puzzles battle](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/June%202021/June%2014/2%20battle.JPG)
+    - [Played Puzzles rush](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/June%202021/June%2014/3%20rush.JPG)
+    - [Played Puzzles](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/June%202021/June%2014/4%20puzzles.JPG)
+    - [Daily regular chess](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/June%202021/June%2014/5%20regular%20chess.JPG)
 
-- [Completed daily workout in ELEVATE]()⚡
+- [Completed daily workout in ELEVATE](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Elevate/June%202021/June%2014.jpeg)⚡
 
-- [Typing practice]()⚡
+- [Typing practice](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/KEY%20BR/June%202021/June%2014.JPG)⚡
 
-- [Completed daily workout in LUMOSITY]()⚡
+- [Completed daily workout in LUMOSITY](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Lumosity/June%202021/June%2014.JPG)⚡
 
-- [Solved few problems in skill rack]()⚡
+- [Solved few problems in skill rack](https://github.com/GuruVikram02/TASK-PROOFS/tree/master/Skill%20rack/June%202021/June%2014)⚡
 
-- [Solved a Hacker-rank problem in python in "Calendar"]()⚡
+- [Solved a Hacker-rank problem in python in "Calendar"](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Hacker%20rank/June%202021/June%2014.JPG)⚡
 
 #### Videos ⚡ ####
 
@@ -446,4 +446,37 @@
 - Ted talk
       
     - [Can you trust your memory?](https://www.ted.com/talks/sheila_marie_orfano_can_you_trust_your_memory#t-124297)
->Task proofs will be updated on 14/06/2021 due to Git push issues    
+>Task proofs updated on 14/06/2021 due to Git push issues    
+
+
+---
+
+## Day 138/15.06.2021 ##
+
+- GAMES ⚡
+  - [Chess](www.chess.com)
+    - [Played Daily Puzzles](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/June%202021/June%2015/1%20Daily%20puzzle.JPG)
+    - [Played Puzzles battle](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/June%202021/June%2015/2%20Battle.JPG)
+    - [Played Puzzles rush](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/June%202021/June%2015/3%20Rush.JPG)
+    - [Played Puzzles](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/June%202021/June%2015/4%20Puzzles.JPG)
+    - [Daily regular chess](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/June%202021/June%2015/5%20regular%20chess.JPG)
+
+- [Completed daily workout in ELEVATE](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Elevate/June%202021/June%2015.jpeg)⚡
+
+- [Typing practice](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Hacker%20rank/June%202021/June%2015.JPG)⚡
+
+- [Completed daily workout in LUMOSITY](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Lumosity/June%202021/June%2015.JPG)⚡
+
+- [Solved few skill rack problems using c language](https://github.com/GuruVikram02/TASK-PROOFS/tree/master/Skill%20rack/June%202021/June%2015)⚡
+
+- [Solved a Hacker-rank problem in python in "Exceptions"](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Hacker%20rank/June%202021/June%2015.JPG)⚡
+
+#### Videos ⚡ ####
+
+- Watched a Video in the topic:
+    - [Gravitas: Alliance of Democracies gears up to challenge China](https://youtu.be/XYfuUzu71Fg)
+
+    - [Gravitas: G7 nations join forces to counter China's BRI](https://youtu.be/7ml12saE3pM)
+- Ted talk
+      
+    - [Poison on our Plate | Ramanjaneyulu GV | TEDxHyderabad](https://youtu.be/64RLBgD-Cck)
