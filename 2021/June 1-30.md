@@ -480,3 +480,35 @@
 - Ted talk
       
     - [Poison on our Plate | Ramanjaneyulu GV | TEDxHyderabad](https://youtu.be/64RLBgD-Cck)
+---
+
+## Day 139/16.06.2021 ##
+
+- GAMES ⚡
+  - [Chess](www.chess.com)
+    - [Played Daily Puzzles](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/June%202021/June%2016/1%20Daily%20puzzle.JPG)
+    - [Played Puzzles battle](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/June%202021/June%2016/2%20Battle.JPG)
+    - [Played Puzzles rush](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/June%202021/June%2016/3%20Rush.JPG)
+    - [Played Puzzles](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/June%202021/June%2016/4%20Puzzles.JPG)
+    - [Daily regular chess](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/June%202021/June%2016/5%20Regular%20chess.JPG)
+
+- [Completed daily workout in ELEVATE](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Elevate/June%202021/June%2016.jpeg)⚡
+
+- [Typing practice](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/KEY%20BR/June%202021/June%2016.JPG)⚡
+
+- [Completed daily workout in LUMOSITY](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Lumosity/June%202021/June%2016.JPG)⚡
+
+- [Solved Few skill rack problems using C-language](https://github.com/GuruVikram02/TASK-PROOFS/tree/master/Skill%20rack/June%202021/June%2016)⚡
+
+- [Solved a Hacker-rank problem in python in "collecetion.namedtuple"](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Hacker%20rank/June%202021/June%2016.JPG)⚡
+
+#### Videos ⚡ ####
+
+- Watched a Video in the topic:
+    - [Gravitas: China rattled after takedown by NATO & G7?](https://youtu.be/67-lhjHso7I)
+
+    - [Gravitas: Will Sweden & The Netherlands become Muslim nations?](https://youtu.be/LwKqItWcP4E)
+
+- Ted talk
+      
+    - [Electronic pills that could transform how we treat disease](https://www.ted.com/talks/khalil_ramadi_electronic_pills_that_could_transform_how_we_treat_disease)
