@@ -518,23 +518,23 @@
 ## Day 140/17.06.2021 ##
 
 - GAMES ⚡
-  - [2048]()
+
   - [Chess](www.chess.com)
-    - [Played Daily Puzzles]()
-    - [Played Puzzles battle]()
-    - [Played Puzzles rush]()
-    - [Played Puzzles]()
-    - [Daily regular chess]()
+    - [Played Daily Puzzles](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/June%202021/June%2017/1%20Daily%20puzzles.JPG)
+    - [Played Puzzles battle](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/June%202021/June%2017/2%20Battle.JPG)
+    - [Played Puzzles rush](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/June%202021/June%2017/3%20rush.JPG)
+    - [Played Puzzles](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/June%202021/June%2017/4%20Puzzles.JPG)
+    - [Daily regular chess](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/June%202021/June%2017/5%20Regular%20chess.JPG)
 
-- [Completed daily workout in ELEVATE]()⚡
+- [Completed daily workout in ELEVATE](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Elevate/June%202021/June%2017.jpeg)⚡
 
-- [Typing practice]()⚡
+- [Typing practice](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/June%202021/June%2017/5%20Regular%20chess.JPG)⚡
 
-- [Completed daily workout in LUMOSITY]()⚡
+- [Completed daily workout in LUMOSITY](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Lumosity/June%202021/June%2017.JPG)⚡
 
-- [Solved 10 skill rack problems Python3x standard module]()⚡
+- [Solved Few skill rack problems](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Lumosity/June%202021/June%2017.JPG)⚡
 
-- [Solved a Hacker-rank problem in python in ""]()⚡
+- [Solved a Hacker-rank problem in python in "TimeLapse"](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Hacker%20rank/June%202021/June%2017.JPG)⚡
 
 #### Videos ⚡ ####
 
