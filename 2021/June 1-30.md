@@ -512,3 +512,38 @@
 - Ted talk
       
     - [Electronic pills that could transform how we treat disease](https://www.ted.com/talks/khalil_ramadi_electronic_pills_that_could_transform_how_we_treat_disease)
+
+---
+
+## Day 140/17.06.2021 ##
+
+- GAMES ⚡
+  - [2048]()
+  - [Chess](www.chess.com)
+    - [Played Daily Puzzles]()
+    - [Played Puzzles battle]()
+    - [Played Puzzles rush]()
+    - [Played Puzzles]()
+    - [Daily regular chess]()
+
+- [Completed daily workout in ELEVATE]()⚡
+
+- [Typing practice]()⚡
+
+- [Completed daily workout in LUMOSITY]()⚡
+
+- [Solved 10 skill rack problems Python3x standard module]()⚡
+
+- [Solved a Hacker-rank problem in python in ""]()⚡
+
+#### Videos ⚡ ####
+
+- Watched a Video in the topic:
+    - [Gravitas: Caught On Camera: Bats locked up inside the Wuhan lab](https://youtu.be/LFdGkAFvW2U)
+
+    - [Gravitas: What was China's Batwoman up to at the Wuhan lab?](https://youtu.be/sUgs_yA02F4)
+
+
+- Ted talk
+      
+    - [How NASA invented a ventilator for COVID-19 ... in 37 days | Dan Goods](https://youtu.be/wybp16nlroo)    
