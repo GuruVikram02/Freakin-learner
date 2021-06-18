@@ -547,3 +547,19 @@
 - Ted talk
       
     - [How NASA invented a ventilator for COVID-19 ... in 37 days | Dan Goods](https://youtu.be/wybp16nlroo)    
+
+    
+---
+
+## Day 141/18.06.2021 ##
+
+- GAMES ⚡
+  - [Chess]()
+
+- [Completed daily workout in ELEVATE]()⚡
+
+- [Typing practice]()⚡
+
+- [Completed daily workout in LUMOSITY]()⚡   
+
+- [Watched a Video in Ted Talk in the topic Thoughts on humanity, fame and love | Shah Rukh Khan ][https://youtu.be/0NV1KdWRHck]⚡
