@@ -554,12 +554,12 @@
 ## Day 141/18.06.2021 ##
 
 - GAMES ⚡
-  - [Chess]()
+  - [Chess](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/June%202021/June%2018.JPG)
 
-- [Completed daily workout in ELEVATE]()⚡
+- [Completed daily workout in ELEVATE](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Elevate/June%202021/June%2018.jpeg)⚡
 
-- [Typing practice]()⚡
+- [Typing practice](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/KEY%20BR/June%202021/June%2018.JPG)⚡
 
-- [Completed daily workout in LUMOSITY]()⚡   
+- [Completed daily workout in LUMOSITY](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Lumosity/June%202021/June%2018.JPG)⚡   
 
 - [Watched a Video in Ted Talk in the topic Thoughts on humanity, fame and love | Shah Rukh Khan ][https://youtu.be/0NV1KdWRHck]⚡
