@@ -562,4 +562,4 @@
 
 - [Completed daily workout in LUMOSITY](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Lumosity/June%202021/June%2018.JPG)⚡   
 
-- [Watched a Video in Ted Talk in the topic Thoughts on humanity, fame and love | Shah Rukh Khan ][https://youtu.be/0NV1KdWRHck]⚡
+- [Watched a Video in Ted Talk in the topic Thoughts on humanity, fame and love | Shah Rukh Khan ](https://youtu.be/0NV1KdWRHck)⚡
