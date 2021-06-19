@@ -563,3 +563,20 @@
 - [Completed daily workout in LUMOSITY](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Lumosity/June%202021/June%2018.JPG)⚡   
 
 - [Watched a Video in Ted Talk in the topic Thoughts on humanity, fame and love | Shah Rukh Khan ](https://youtu.be/0NV1KdWRHck)⚡
+
+
+---
+
+## Day 142/19.06.2021 ##
+
+- GAMES ⚡
+  - [2048]()
+  - [Chess]()
+
+- [Completed daily workout in ELEVATE]()⚡
+
+- [Typing practice]()⚡
+
+- [Completed daily workout in LUMOSITY]()⚡   
+
+- [Watched a Video in Ted Talk in the topic Looks aren't everything. Believe me, I'm a model. | Cameron Russell](https://youtu.be/KM4Xe6Dlp0Y)⚡
