@@ -579,3 +579,21 @@
 - [Completed daily workout in LUMOSITY](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Lumosity/June%202021/June%2019.JPG)⚡   
 
 - [Watched a Video in Ted Talk in the topic Looks aren't everything. Believe me, I'm a model. | Cameron Russell](https://youtu.be/KM4Xe6Dlp0Y)⚡
+
+
+---
+
+## Day 143/20.06.2021 ##
+
+- GAMES ⚡
+  - [Chess](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/June%202021/June%2020.JPG)
+
+- [Completed daily workout in ELEVATE](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Elevate/June%202021/June%2020.jpeg)⚡
+
+- [Typing practice](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/KEY%20BR/June%202021/June%2020.JPG)⚡
+
+- [Completed daily workout in LUMOSITY](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Lumosity/June%202021/June%2020.JPG)⚡   
+
+- [Solved Few skill rack problems](https://github.com/GuruVikram02/TASK-PROOFS/tree/master/Skill%20rack/June%202021/June%2020)⚡
+
+- [Watched a Video in Ted Talk in the topic Questioning the universe | Stephen Hawking](https://youtu.be/xjBIsp8mS-c)⚡
