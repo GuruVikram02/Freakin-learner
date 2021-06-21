@@ -617,3 +617,21 @@
 - [Watched a Video in Ted Talk in the topic Brain magic | Keith Barry](https://youtu.be/GigYWy2UmOY)⚡
 
 - [Watched a Video in the topic of My Daily Routine for Maximum Productivity & Creativity](https://youtu.be/XZ3rX0YPH6g)⚡
+
+
+---
+
+## Day 145/22.06.2021 ##
+
+- GAMES ⚡
+  - [Chess]()
+
+- [Completed daily workout in ELEVATE]()⚡
+
+- [Typing practice]()⚡
+
+- [Completed daily workout in LUMOSITY]()⚡   
+
+- [Solved skill rack problems]()⚡
+
+- [Watched a Video in Ted Talk in the topic]()⚡
