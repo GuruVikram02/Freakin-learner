@@ -604,15 +604,15 @@
 ## Day 144/21.06.2021 ##
 
 - GAMES ⚡
-  - [Chess]()
+  - [Chess](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/June%202021/June%2021.JPG)
 
-- [Completed daily workout in ELEVATE]()⚡
+- [Completed daily workout in ELEVATE](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Elevate/June%202021/June%2021.jpeg)⚡
 
-- [Typing practice]()⚡
+- [Typing practice](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/KEY%20BR/June%202021/June%2021.JPG)⚡
 
-- [Completed daily workout in LUMOSITY]()⚡   
+- [Completed daily workout in LUMOSITY](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Lumosity/June%202021/June%2021.JPG)⚡   
 
-- [Solved Few skill rack problems]()⚡
+- [Solved Few skill rack problems](https://github.com/GuruVikram02/TASK-PROOFS/tree/master/Skill%20rack/June%202021/June%2021)⚡
 
 - [Watched a Video in Ted Talk in the topic Brain magic | Keith Barry](https://youtu.be/GigYWy2UmOY)⚡
 
