@@ -597,3 +597,23 @@
 - [Solved Few skill rack problems](https://github.com/GuruVikram02/TASK-PROOFS/tree/master/Skill%20rack/June%202021/June%2020)⚡
 
 - [Watched a Video in Ted Talk in the topic Questioning the universe | Stephen Hawking](https://youtu.be/xjBIsp8mS-c)⚡
+
+
+---
+
+## Day 144/21.06.2021 ##
+
+- GAMES ⚡
+  - [Chess]()
+
+- [Completed daily workout in ELEVATE]()⚡
+
+- [Typing practice]()⚡
+
+- [Completed daily workout in LUMOSITY]()⚡   
+
+- [Solved Few skill rack problems]()⚡
+
+- [Watched a Video in Ted Talk in the topic Brain magic | Keith Barry](https://youtu.be/GigYWy2UmOY)⚡
+
+-[Watched a Video in the topic of My Daily Routine for Maximum Productivity & Creativity](https://youtu.be/XZ3rX0YPH6g)⚡
