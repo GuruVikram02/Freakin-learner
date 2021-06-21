@@ -616,4 +616,4 @@
 
 - [Watched a Video in Ted Talk in the topic Brain magic | Keith Barry](https://youtu.be/GigYWy2UmOY)⚡
 
--[Watched a Video in the topic of My Daily Routine for Maximum Productivity & Creativity](https://youtu.be/XZ3rX0YPH6g)⚡
+- [Watched a Video in the topic of My Daily Routine for Maximum Productivity & Creativity](https://youtu.be/XZ3rX0YPH6g)⚡
