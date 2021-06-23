@@ -653,3 +653,4 @@
 - [Solved skill rack problems]()⚡
 
 - [Watched a Video in Ted Talk in the topic The search for microscopic aliens | Sarah Rugheimer](https://youtu.be/w1CqXHlAzkc)⚡
+>Tasks proofs will be uploaded on 24/6/2021 due to network issue
