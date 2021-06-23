@@ -635,3 +635,21 @@
 - [Solved skill rack problems](https://github.com/GuruVikram02/TASK-PROOFS/tree/master/Skill%20rack/June%202021/June%2022)⚡
 
 - [Watched a Video in Ted Talk in the topic || Why was India split into two countries?](https://www.ted.com/talks/haimanti_roy_why_was_india_split_into_two_countries)⚡
+
+
+---
+
+## Day /.06.2021 ##
+
+- GAMES ⚡
+  - [Chess]()
+
+- [Completed daily workout in ELEVATE]()⚡
+
+- [Typing practice]()⚡
+
+- [Completed daily workout in LUMOSITY]()⚡   
+
+- [Solved skill rack problems]()⚡
+
+- [Watched a Video in Ted Talk in the topic The search for microscopic aliens | Sarah Rugheimer](https://youtu.be/w1CqXHlAzkc)⚡
