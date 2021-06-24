@@ -654,3 +654,23 @@
 
 - [Watched a Video in Ted Talk in the topic The search for microscopic aliens | Sarah Rugheimer](https://youtu.be/w1CqXHlAzkc)⚡
 >Tasks proofs will be uploaded on 24/6/2021 due to network issue
+
+
+---
+
+## Day 147/24.06.2021 ##
+
+- GAMES ⚡
+  - [Chess]()
+
+- [Completed daily workout in ELEVATE]()⚡
+
+- [Typing practice]()⚡
+
+- [Completed daily workout in LUMOSITY]()⚡   
+
+- [Solved skill rack problems]()⚡
+
+- [Watched a Video in Ted Talk in the topic Food for thought: How your belly controls your brain | Ruairi Robertson | TEDxFulbrightSantaMonica](https://youtu.be/awtmTJW9ic8)⚡
+
+- [Watched a Video in the topic of Gravitas: Jeff Bezos is going to Space](https://youtu.be/ov54-V2MPHo)⚡
