@@ -674,3 +674,21 @@
 - [Watched a Video in Ted Talk in the topic Food for thought: How your belly controls your brain | Ruairi Robertson | TEDxFulbrightSantaMonica](https://youtu.be/awtmTJW9ic8)⚡
 
 - [Watched a Video in the topic of Gravitas: Jeff Bezos is going to Space](https://youtu.be/ov54-V2MPHo)⚡
+
+
+---
+
+## Day 148/25.06.2021 ##
+
+- GAMES ⚡
+  - [Chess]()
+
+- [Completed daily workout in ELEVATE]()⚡
+
+- [Typing practice]()⚡
+
+- [Completed daily workout in LUMOSITY]()⚡   
+
+- [Solved skill rack problems]()⚡
+
+- [Watched a Video in Ted Talk in the topic Why is India so filthy? | The Ugly Indian | TEDxBangalore](https://youtu.be/tf1VA5jqmRo)⚡
