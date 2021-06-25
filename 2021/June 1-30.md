@@ -687,8 +687,8 @@
 
 - [Typing practice](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/KEY%20BR/June%202021/June%2025.JPG)⚡
 
-- [Completed daily workout in LUMOSITY]()⚡   
+- [Completed daily workout in LUMOSITY](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Lumosity/June%202021/June%2025.JPG)⚡   
 
-- [Solved skill rack problems]()⚡
+- [Solved skill rack problems](https://github.com/GuruVikram02/TASK-PROOFS/tree/master/Skill%20rack/June%202021/June%2025)⚡
 
 - [Watched a Video in Ted Talk in the topic Why is India so filthy? | The Ugly Indian | TEDxBangalore](https://youtu.be/tf1VA5jqmRo)⚡
