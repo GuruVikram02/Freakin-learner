@@ -692,3 +692,21 @@
 - [Solved skill rack problems](https://github.com/GuruVikram02/TASK-PROOFS/tree/master/Skill%20rack/June%202021/June%2025)⚡
 
 - [Watched a Video in Ted Talk in the topic Why is India so filthy? | The Ugly Indian | TEDxBangalore](https://youtu.be/tf1VA5jqmRo)⚡
+
+
+---
+
+## Day 149/26.06.2021 ##
+
+- GAMES ⚡
+  - [Chess]()
+
+- [Completed daily workout in ELEVATE]()⚡
+
+- [Typing practice]()⚡
+
+- [Completed daily workout in LUMOSITY]()⚡   
+
+- [Solved skill rack Daily contest]()⚡
+
+- [Watched a Video in Ted Talk in the topic| The Art Of Bow making|Dong woo jang|TED](https://youtu.be/WfTZ5iIUn4s)⚡
