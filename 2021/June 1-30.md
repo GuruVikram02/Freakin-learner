@@ -723,4 +723,4 @@
 
 - [Completed daily workout in LUMOSITY](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Lumosity/June%202021/June%2027.JPG)⚡   
 
-- [Watched a Video in Ted Talk in the topic |](https://www.ted.com/talks/shravan_s_k_can_you_cheat_death_by_solving_this_riddle#t-150939)⚡
+- [Watched a Video in Ted Talk in the topic |Can you cheat death by solving this riddle?](https://www.ted.com/talks/shravan_s_k_can_you_cheat_death_by_solving_this_riddle#t-150939)⚡
