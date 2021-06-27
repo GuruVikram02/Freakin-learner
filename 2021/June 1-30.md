@@ -707,6 +707,20 @@
 
 - [Completed daily workout in LUMOSITY]()⚡   
 
-- [Solved skill rack Daily contest]()⚡
-
 - [Watched a Video in Ted Talk in the topic| The Art Of Bow making|Dong woo jang|TED](https://youtu.be/WfTZ5iIUn4s)⚡
+
+
+---
+
+## Day 150/27.06.2021 ##
+
+- GAMES ⚡
+  - [Chess](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/June%202021/June%2027.JPG)
+
+- [Completed daily workout in ELEVATE](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Elevate/June%202021/June%2027.jpg)⚡
+
+- [Typing practice](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/KEY%20BR/June%202021/June%2027.JPG)⚡
+
+- [Completed daily workout in LUMOSITY](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Lumosity/June%202021/June%2027.JPG)⚡   
+
+- [Watched a Video in Ted Talk in the topic |](https://www.ted.com/talks/shravan_s_k_can_you_cheat_death_by_solving_this_riddle#t-150939)⚡
