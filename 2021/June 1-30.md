@@ -730,14 +730,13 @@
 ## Day 151/28.06.2021 ##
 
 - GAMES ⚡
-  - [Chess]()
+  - [Chess](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/June%202021/June%2028.JPG)
 
-- [Completed daily workout in ELEVATE]()⚡
+- [Completed daily workout in ELEVATE](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Elevate/June%202021/June%2028.jpg)⚡
 
-- [Typing practice]()⚡
+- [Typing practice](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/KEY%20BR/June%202021/June%2028.JPG)⚡
 
-- [Completed daily workout in LUMOSITY]()⚡   
+- [Completed daily workout in LUMOSITY](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Lumosity/June%202021/June%2028.JPG)⚡   
 
-- [Solved skill rack problems]()⚡
+- [Solved skill rack problems](https://github.com/GuruVikram02/TASK-PROOFS/tree/master/Skill%20rack/June%202021/June%2028)⚡
 
-- [Watched a Video in Ted Talk in the topic]()⚡
