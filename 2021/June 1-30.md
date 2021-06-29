@@ -739,4 +739,20 @@
 - [Completed daily workout in LUMOSITY](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Lumosity/June%202021/June%2028.JPG)⚡   
 
 - [Solved skill rack problems](https://github.com/GuruVikram02/TASK-PROOFS/tree/master/Skill%20rack/June%202021/June%2028)⚡
+---
+
+## Day 152/29.06.2021 ##
+
+- GAMES ⚡
+  - [Chess]()
+
+- [Completed daily workout in ELEVATE]()⚡
+
+- [Typing practice]()⚡
+
+- [Completed daily workout in LUMOSITY]()⚡   
+
+- [Solved skill rack problems]()⚡
+
+- [Watched a Video in Ted Talk in the topic The renewable heating system right below your feet | Kathy Hannun](https://youtu.be/OAXPl_jRvps)⚡
 
