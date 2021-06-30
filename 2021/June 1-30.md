@@ -756,3 +756,19 @@
 
 - [Watched a Video in Ted Talk in the topic The renewable heating system right below your feet | Kathy Hannun](https://youtu.be/OAXPl_jRvps)⚡
 
+---
+
+## Day 153/30.06.2021 ##
+
+- GAMES ⚡
+  - [Chess]()
+
+- [Completed daily workout in ELEVATE]()⚡
+
+- [Typing practice]()⚡
+
+- [Completed daily workout in LUMOSITY]()⚡   
+
+- [Solved skill rack problems]()⚡
+
+- [Watched a Video in Ted Talk in the topic]()⚡
