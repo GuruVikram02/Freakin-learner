@@ -46,30 +46,30 @@
 
 ---
 
-## Day /.05.2021 ##
+## Day 155/02.07.2021 ##
 
 - GAMES ⚡
-  - [Chess](www.chess.com)
+  - [Chess](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/July%202021/July%202.JPG)
 
-- [Solved daily problem in Brilliant.org]()⚡
+- [Solved daily problem in Brilliant.org](www.Brillian.org)⚡
 
-- [Completed daily workout in ELEVATE]()⚡
+- [Completed daily workout in ELEVATE](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Elevate/July%202021/July%202.jpg)⚡
 
-- [Typing practice]()⚡
+- [Typing practice](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/KEY%20BR/July%202021/July%202.JPG)⚡
 
-- [Completed daily workout in LUMOSITY]()⚡
+- [Completed daily workout in LUMOSITY](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Lumosity/July%202021/June%202.JPG)⚡
 
 - [skillrack](www.skillrack.com)
-  - [Solved Daily contest]()
-  - [Solved few problems in Java]()
+  - [Solved Daily contest](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Skill%20rack/July%202021/July%202/DC.JPG)
+  - [Solved few problems in Java](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Skill%20rack/July%202021/July%202/Java%20basics.JPG)
 
-- [Solved a Hacker-rank problem in Java]()⚡
+- [Solved a Hacker-rank problem in Java](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Hacker%20rank/2021/July/July%202.JPG)⚡
 
-- [Solved a Leet Code problem]()
+- [Solved a Leet Code problem](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Leet%20code/July/July%202.JPG)
 
 #### Learning ⚡ ####
 
-- [Learned Java from Telusuko]()
+- [Learned Java from Telusuko](https://www.youtube.com/watch?v=IZJWI0d0zw8&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=13)
   - Topics Covered Today:-
     - #2.1 Java Tutorial | Variable in Java
     - 2.2 What is Variable in Java
@@ -79,7 +79,7 @@
     - 3.1 How Java works Demo
 
 
-- [Solved Few Verbal Aptitude question in Indiabix]()    
+- [Solved Few Verbal Aptitude question in Indiabix](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Apti/2021/July/July%202.JPG)    
 #### Videos ⚡ ####
 
 - Watched a Video in the topic:
