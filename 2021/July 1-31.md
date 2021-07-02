@@ -43,3 +43,50 @@
 - Ted talk
       
     - [Watched a Ted talk in the topic ||Luis zambrano these salamanders snack on each other but dont die](https://www.ted.com/talks/luis_zambrano_these_salamanders_snack_on_each_other_but_don_t_die#t-189241)
+
+---
+
+## Day /.05.2021 ##
+
+- GAMES ⚡
+  - [Chess](www.chess.com)
+
+- [Solved daily problem in Brilliant.org]()⚡
+
+- [Completed daily workout in ELEVATE]()⚡
+
+- [Typing practice]()⚡
+
+- [Completed daily workout in LUMOSITY]()⚡
+
+- [skillrack](www.skillrack.com)
+  - [Solved Daily contest]()
+  - [Solved few problems in Java]()
+
+- [Solved a Hacker-rank problem in Java]()⚡
+
+- [Solved a Leet Code problem]()
+
+#### Learning ⚡ ####
+
+- [Learned Java from Telusuko]()
+  - Topics Covered Today:-
+    - #2.1 Java Tutorial | Variable in Java
+    - 2.2 What is Variable in Java
+    - 2.3 More on variables Java Tutorial part 5 | Lecture
+    - #2.4 Naming Convention in Java
+    - How Java Works
+    - 3.1 How Java works Demo
+
+
+- [Solved Few Verbal Aptitude question in Indiabix]()    
+#### Videos ⚡ ####
+
+- Watched a Video in the topic:
+    - [WHO warns Europe of a new wave of COVID-19 | Delta Variant | European Union | Latest English News](https://youtu.be/vFoNo6d94TU)
+
+    - [Gravitas: Xi Jinping: Countries opposing China will "crack their heads and spill blood"](https://youtu.be/yXFeFj3KnqE)
+
+- Ted talk
+      
+    - [What's normal anxiety -- and what's an anxiety disorder? | Body Stuff with Dr. Jen Gunter](https://youtu.be/xsEJ6GeAGb0)
