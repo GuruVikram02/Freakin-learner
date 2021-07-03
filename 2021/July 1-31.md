@@ -90,3 +90,48 @@
 - Ted talk
       
     - [What's normal anxiety -- and what's an anxiety disorder? | Body Stuff with Dr. Jen Gunter](https://youtu.be/xsEJ6GeAGb0)
+---
+
+## Day 156/03.07.2021 ##
+
+- GAMES ⚡
+  - [Chess]()
+
+- [Solved daily problem in Brilliant.org]()⚡
+
+- [Completed daily workout in ELEVATE]()⚡
+
+- [Typing practice]()⚡
+
+- [Completed daily workout in LUMOSITY]()⚡
+
+- [skillrack](www.skillrack.com)
+  - [Solved Daily contest]()
+  - [Solved few problems in Java]()
+
+- [Solved a Hacker-rank problem in Java]()⚡
+
+- [Solved a Leet Code problem]()
+
+#### Learning ⚡ ####
+
+- [Learned Java from Telusuko](https://youtu.be/WkfoBYV_zX4)
+  - Topics Covered Today:-
+  - 3.2 How to learn Java from Telusko
+  - 4.1 Introduction to Netbeans IDE Practical Free Java Course | Tutorial | Lecture
+  - 4.2 How to use Printf method in Java
+  - 4.3 Short Hand Operators in Java | With Java Tricks | Tutorial
+  - 4.4 Binary Literal in Java
+
+
+- [Solved Few Verbal Aptitude question in Indiabix]()    
+#### Videos ⚡ ####
+
+- Watched a Video in the topic:
+    - [Gravitas: China deploys "thousands of troops" close to India border](https://youtu.be/IbIhogFmr5U)
+
+    - [Israel forces hit Hamas weapons depot](https://youtu.be/SVrPZPm2_Ng)
+
+- Ted talk
+      
+    - [The messy truth about grief | Nora McInerny](https://youtu.be/3hRxS_As6-s)
