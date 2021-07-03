@@ -95,23 +95,23 @@
 ## Day 156/03.07.2021 ##
 
 - GAMES ⚡
-  - [Chess]()
+  - [Chess](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/July%202021/July%203.JPG)
 
-- [Solved daily problem in Brilliant.org]()⚡
+- [Solved daily problem in Brilliant.org](www.brilliant.org)⚡
 
-- [Completed daily workout in ELEVATE]()⚡
+- [Completed daily workout in ELEVATE](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Elevate/July%202021/July%203.jpeg)⚡
 
-- [Typing practice]()⚡
+- [Typing practice](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/KEY%20BR/July%202021/July%203.JPG)⚡
 
-- [Completed daily workout in LUMOSITY]()⚡
+- [Completed daily workout in LUMOSITY](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Lumosity/July%202021/July%203.JPG)⚡
 
-- [skillrack](www.skillrack.com)
-  - [Solved Daily contest]()
-  - [Solved few problems in Java]()
+- [skillrack](www.skillrack.com)⚡
+  - [Solved Daily contest](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Skill%20rack/July%202021/July%203/DC.JPG)
+  - [Solved few problems in Java](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Skill%20rack/July%202021/July%203/Java%20basics.JPG)
 
-- [Solved a Hacker-rank problem in Java]()⚡
+- [Solved a Hacker-rank problem in Java](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Hacker%20rank/2021/July/July%203.JPG)⚡
 
-- [Solved a Leet Code problem]()
+- [Solved a Leet Code problem](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Leet%20code/July/July%203.JPG)⚡
 
 #### Learning ⚡ ####
 
