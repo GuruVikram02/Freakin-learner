@@ -172,4 +172,3 @@
 - Ted talk
       
     - [The danger of AI is weirder than you think | Janelle Shane](https://youtu.be/OhCzX0iLnOc)
->Proofs 
