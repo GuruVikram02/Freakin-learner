@@ -135,3 +135,41 @@
 - Ted talk
       
     - [The messy truth about grief | Nora McInerny](https://youtu.be/3hRxS_As6-s)
+---
+
+## Day 157/04.07.2021 ##
+
+- GAMES ⚡
+  - [Chess](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/July%202021/July%204.JPG)
+
+- [Solved daily problem in Brilliant.org](https://brilliant.org/daily-problems/brilliant-weekend/)⚡
+
+- [Completed daily workout in ELEVATE](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Elevate/July%202021/July%204.jpg)⚡
+
+- [Typing practice](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/KEY%20BR/July%202021/July%204.JPG)⚡
+
+- [Completed daily workout in LUMOSITY](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Lumosity/July%202021/July%204.JPG)⚡
+
+- [skillrack](www.skillrack.com)
+  - [Solved Daily contest](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Skill%20rack/July%202021/July%204.JPG)
+
+- [Solved a Hacker-rank problem in Java](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Hacker%20rank/2021/July/July%204.JPG)⚡
+
+- [Solved a Leet Code problem](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Leet%20code/July/July%204.JPG)
+
+#### Learning ⚡ ####
+
+- [Learned Java from Telusuko](https://youtu.be/TnJ_bzLfUXk)
+  - Topics Covered Today:-
+    - 4.5 Post and Pre Increment in Java
+
+- [Solved Few Verbal Aptitude question in Indiabix]()    
+#### Videos ⚡ ####
+
+- Watched a Video in the topic:
+    - [Philippine: Plane with 92 people on board crashes](https://youtu.be/lmwoFf_BRxg)
+
+- Ted talk
+      
+    - [The danger of AI is weirder than you think | Janelle Shane](https://youtu.be/OhCzX0iLnOc)
+>Proofs 
