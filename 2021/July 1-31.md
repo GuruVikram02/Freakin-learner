@@ -176,7 +176,7 @@
 
     ---
 
-## Day /.05.2021 ##
+## Day 158/07.08.2021 ##
 
 - GAMES ⚡
   - [Chess](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/July%202021/July%205.JPG)
