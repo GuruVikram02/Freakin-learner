@@ -172,3 +172,42 @@
 - Ted talk
       
     - [The danger of AI is weirder than you think | Janelle Shane](https://youtu.be/OhCzX0iLnOc)
+
+
+    ---
+
+## Day /.05.2021 ##
+
+- GAMES ⚡
+  - [Chess](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/July%202021/July%205.JPG)
+
+- [Solved daily problem in Brilliant.org](https://brilliant.org/daily-problems/dominant-dog-trait/)⚡
+
+- [Completed daily workout in ELEVATE](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Elevate/July%202021/July%205.jpeg)⚡
+
+- [Typing practice](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/KEY%20BR/July%202021/July%205.JPG)⚡
+
+- [Completed daily workout in LUMOSITY](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Lumosity/July%202021/July%205.JPG)⚡
+
+- [skillrack](www.skillrack.com)
+  - [Solved Daily contest](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Skill%20rack/July%202021/July%205.JPG)
+
+- [Solved a Hacker-rank problem in Java](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Hacker%20rank/2021/July/July%205.JPG)⚡
+
+- [Solved a Leet Code problem](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Leet%20code/July/July%205.JPG)
+
+#### Learning ⚡ ####
+
+- [Learned Java from Telusuko](https://youtu.be/rzfiE0UuZnQ)
+  - Topics Covered Today:-
+    - 4.6 Bitwise And & Or | Operator in Java
+
+- [Solved Few Verbal Aptitude question in Indiabix](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Apti/2021/July/July%205.JPG)    
+#### Videos ⚡ ####
+
+- Watched a Video in the topic:
+    - [Gravitas Plus: The serious business of toys](https://youtu.be/rQNWZoa4suQ)
+
+- Ted talk
+      
+    - [The secret language of Trees](https://www.ted.com/talks/camille_defrenne_and_suzanne_simard_the_secret_language_of_trees)
