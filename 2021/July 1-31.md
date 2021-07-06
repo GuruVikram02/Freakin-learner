@@ -211,3 +211,42 @@
 - Ted talk
       
     - [The secret language of Trees](https://www.ted.com/talks/camille_defrenne_and_suzanne_simard_the_secret_language_of_trees)
+---
+
+## Day 159/6.07.2021 ##
+
+- GAMES ⚡
+  - [Chess]()
+
+- [Solved daily problem in Brilliant.org]()⚡
+
+- [Completed daily workout in ELEVATE]()⚡
+
+- [Typing practice]()⚡
+
+- [Completed daily workout in LUMOSITY]()⚡
+
+- [skillrack](www.skillrack.com)
+  - [Solved Daily contest]()
+
+- [Solved a Hacker-rank problem in Java]()⚡
+
+- [Solved a Leet Code problem]()
+
+#### Learning ⚡ ####
+
+- [Learned Java from Telusuko](https://youtu.be/tpP8EQE8DNU)
+  - Topics Covered Today:-
+    - 4.7 Left and Right Shift Operator in Java
+    - 5.1 how to use Boolean in java
+
+- [Solved Few Verbal Aptitude question in Indiabix]()    
+#### Videos ⚡ ####
+
+- Watched a Video in the topic:
+    - [Gravitas: India's development diplomacy exposes China's debt trap](https://youtu.be/2gqChkl-Pl8)
+
+- Ted talk
+      
+    - [Helder Guimarães: A magical search for a coincidence](https://youtu.be/j81saupKVpo)
+>Proffs will be updated on 07/07/2021 due to network issues
