@@ -249,4 +249,4 @@
 - Ted talk
       
     - [Helder Guimarães: A magical search for a coincidence](https://youtu.be/j81saupKVpo)
->Proffs will be updated on 07/07/2021 due to network issues
+>Proffs will be updated on 07/07/2021 due to network issues.
