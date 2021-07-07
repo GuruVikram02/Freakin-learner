@@ -216,22 +216,22 @@
 ## Day 159/6.07.2021 ##
 
 - GAMES ⚡
-  - [Chess]()
+  - [Chess](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/July%202021/July%206.JPG)
 
-- [Solved daily problem in Brilliant.org]()⚡
+- [Solved daily problem in Brilliant.org](www.brilliant.org)⚡
 
-- [Completed daily workout in ELEVATE]()⚡
+- [Completed daily workout in ELEVATE](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Elevate/July%202021/July%206.jpeg)⚡
 
-- [Typing practice]()⚡
+- [Typing practice](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/KEY%20BR/July%202021/July%206.JPG)⚡
 
-- [Completed daily workout in LUMOSITY]()⚡
+- [Completed daily workout in LUMOSITY](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Lumosity/July%202021/July%206.JPG)⚡
 
 - [skillrack](www.skillrack.com)
-  - [Solved Daily contest]()
+  - [Solved Daily contest](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Skill%20rack/July%202021/July%206.JPG)
 
-- [Solved a Hacker-rank problem in Java]()⚡
+- [Solved a Hacker-rank problem in Java](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Hacker%20rank/2021/July/July%206.JPG)⚡
 
-- [Solved a Leet Code problem]()
+- [Solved a Leet Code problem](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Leet%20code/July/July%206.JPG)
 
 #### Learning ⚡ ####
 
@@ -240,7 +240,7 @@
     - 4.7 Left and Right Shift Operator in Java
     - 5.1 how to use Boolean in java
 
-- [Solved Few Verbal Aptitude question in Indiabix]()    
+- [Solved Few Verbal Aptitude question in Indiabix](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Apti/2021/July/July%206.JPG)    
 #### Videos ⚡ ####
 
 - Watched a Video in the topic:
@@ -256,43 +256,32 @@
 ## Day 160/07.07.2021 ##
 
 - GAMES ⚡
-  - [Chess](www.chess.com)
+  - [Chess](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/July%202021/July%207.JPG)
 
-- [Solved daily problem in Brilliant.org]()⚡
+- [Solved daily problem in Brilliant.org](https://brilliant.org/daily-problems/top-bottom-card/)⚡
 
-- [Completed daily workout in ELEVATE]()⚡
+- [Completed daily workout in ELEVATE](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Elevate/July%202021/July%207.jpeg)⚡
 
-- [Typing practice]()⚡
+- [Typing practice](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/KEY%20BR/July%202021/July%207.JPG)⚡
 
-- [Completed daily workout in LUMOSITY]()⚡
+- [Completed daily workout in LUMOSITY](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Lumosity/July%202021/July%207.JPG)⚡
 
-- [skillrack](www.skillrack.com)
-  - [Solved Daily contest]()
-  - [Solved few problems in Java]()
+- [Solved a Hacker-rank problem in Java](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Hacker%20rank/2021/July/July%207.JPG)⚡
 
-- [Solved a Hacker-rank problem in Java]()⚡
-
-- [Solved a Leet Code problem]()
+- [Solved a Leet Code problem](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/KEY%20BR/July%202021/July%207.JPG)
 
 #### Learning ⚡ ####
 
-- [Learned Java from Telusuko]()
+- [Learned Java from Telusuko](https://youtu.be/ywYMkaoIvYA)
   - Topics Covered Today:-
-    1.
-    2.
-    3.
-    4.
-    5.
-    6.
+    - 5.2 If Else in Java Tutorial Part 8 | Lecture
 
-- [Solved Few Verbal Aptitude question in Indiabix]()    
+- [Solved Few Verbal Aptitude question in Indiabix](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Apti/2021/July/July%207.JPG)    
 #### Videos ⚡ ####
 
 - Watched a Video in the topic:
-    - []()
-
-    - []()
+    - [Gravitas: What's keeping Pakistan in the dark?](https://youtu.be/kqJnHNMeoxE)
 
 - Ted talk
       
-    - []()
+    - [Why do we have hair in such random places? - Nina G. Jablonski](https://youtu.be/wd18yfQqa8A)
