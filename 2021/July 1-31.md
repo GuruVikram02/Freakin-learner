@@ -285,3 +285,39 @@
 - Ted talk
       
     - [Why do we have hair in such random places? - Nina G. Jablonski](https://youtu.be/wd18yfQqa8A)
+
+    ---
+
+## Day /.05.2021 ##
+
+- GAMES ⚡
+  - [Chess](www.chess.com)
+
+- [Solved daily problem in Brilliant.org]()⚡
+
+- [Completed daily workout in ELEVATE]()⚡
+
+- [Typing practice]()⚡
+
+- [Completed daily workout in LUMOSITY]()⚡
+
+- [Solved a Hacker-rank problem in Java]()⚡
+
+- [Solved a Leet Code problem]()
+
+#### Learning ⚡ ####
+
+- [Learned Java from Telusuko](https://youtu.be/4K0vDFyPa2o)
+  - Topics Covered Today:-
+    - 5.4 Java Trick | Print Hello World without using Semicolon
+
+- [Solved Few Verbal Aptitude question in Indiabix]()    
+#### Videos ⚡ ####
+
+- Watched a Video in the topic:
+    - [Huge explosion erupts on ship at Jebel Ali port, sending shockwaves through Dubai | WION World News](https://youtu.be/czN8aYjsOlM)
+
+- Ted talk
+      
+    - [What would happen if you didn’t drink water? - Mia Nacamulli](https://youtu.be/9iMGFqMmUFs)
+    >Proofs will be uploaded on 08/07/2021 due to network issues 
