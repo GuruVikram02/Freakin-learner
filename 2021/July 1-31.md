@@ -321,4 +321,43 @@
       
     - [What would happen if you didn’t drink water? - Mia Nacamulli](https://youtu.be/9iMGFqMmUFs)
     
->Proofs will be uploaded on 08/07/2021 due to network issues 
+ 
+
+---
+
+## Day /.05.2021 ##
+
+- GAMES ⚡
+  - [Chess]()
+
+- [Solved daily problem in Brilliant.org]()⚡
+
+- [Completed daily workout in ELEVATE]()⚡
+
+- [Typing practice]()⚡
+
+- [Completed daily workout in LUMOSITY]()⚡
+
+- [skillrack](www.skillrack.com)
+  - [Solved Daily contest]()
+
+- [Solved a Hacker-rank problem in Java]()⚡
+
+- [Solved a Leet Code problem]()
+
+#### Learning ⚡ ####
+
+- [Learned Java from Telusuko]()
+  - Topics Covered Today:-
+    - 5.5 Switch case9 in java
+
+- [Solved Few Verbal Aptitude question in Indiabix]()    
+#### Videos ⚡ ####
+
+- Watched a Video in the topic:
+    - [Gravitas: Indian court: Live-in relationships morally unacceptable](https://youtu.be/AIT7Yfj1inU)
+
+- Ted talk
+      
+    - [The epic of Gilgamesh, the king who tried to conquer death - Soraya Field Fiorio](https://youtu.be/BV9t3Cp18Rc)
+    >Proofs will be uploaded on 09/07/2021 due to network issues
