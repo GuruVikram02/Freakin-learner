@@ -360,7 +360,7 @@
 - Ted talk
       
     - [The epic of Gilgamesh, the king who tried to conquer death - Soraya Field Fiorio](https://youtu.be/BV9t3Cp18Rc)
-    >Proofs will be uploaded on 09/07/2021 due to network issues
+  
 
     ---
 
@@ -399,3 +399,4 @@
 - Ted talk
       
     - [Grit: the power of passion and perseverance | Angela Lee Duckworth](https://youtu.be/H14bBuluwB8)
+      >Proofs will be uploaded on 10/07/2021 due to network issues
