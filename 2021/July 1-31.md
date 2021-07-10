@@ -361,3 +361,41 @@
       
     - [The epic of Gilgamesh, the king who tried to conquer death - Soraya Field Fiorio](https://youtu.be/BV9t3Cp18Rc)
     >Proofs will be uploaded on 09/07/2021 due to network issues
+
+    ---
+
+## Day /.05.2021 ##
+
+- GAMES ⚡
+  - [Chess]()
+
+- [Solved daily problem in Brilliant.org]()⚡
+
+- [Completed daily workout in ELEVATE]()⚡
+
+- [Typing practice]()⚡
+
+- [Completed daily workout in LUMOSITY]()⚡
+
+- [skillrack](www.skillrack.com)
+  - [Solved Daily contest]()
+
+- [Solved a Hacker-rank problem in Java]()⚡
+
+- [Solved a Leet Code problem]()
+
+#### Learning ⚡ ####
+
+- [Learned Java from Telusuko](https://youtu.be/eqtzsqMiFss)
+  - Topics Covered Today:-
+    - 5.6 Loop For, while, do while Java Tutorial Part 10 | Lecture
+
+- [Solved Few Verbal Aptitude question in Indiabix]()    
+#### Videos ⚡ ####
+
+- Watched a Video in the topic:
+    - [Gravitas: Do you really need to walk 10,000 steps a day?](https://youtu.be/c-6aW4Hb2AA)
+
+- Ted talk
+      
+    - [Grit: the power of passion and perseverance | Angela Lee Duckworth](https://youtu.be/H14bBuluwB8)
