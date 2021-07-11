@@ -291,9 +291,9 @@
 ## Day 161/08.07.2021 ##
 
 - GAMES ⚡
-  - [Chess](www.chess.com)
+  - [Chess](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/July%202021/July%208.JPG)
 
-- [Solved daily problem in Brilliant.org]()⚡
+- [Solved daily problem in Brilliant.org](www.Brilliant.org)⚡
 
 - [Completed daily workout in ELEVATE]()⚡
 
@@ -311,7 +311,7 @@
   - Topics Covered Today:-
     - 5.4 Java Trick | Print Hello World without using Semicolon
 
-- [Solved Few Verbal Aptitude question in Indiabix]()    
+- [Solved Few Verbal Aptitude question in Indiabix](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Apti/2021/July/July%208.JPG)    
 #### Videos ⚡ ####
 
 - Watched a Video in the topic:
@@ -328,9 +328,9 @@
 ## Day 162/09.07.2021 ##
 
 - GAMES ⚡
-  - [Chess]()
+  - [Chess](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/July%202021/July%209.JPG)
 
-- [Solved daily problem in Brilliant.org]()⚡
+- [Solved daily problem in Brilliant.org](www.Brilliant.org)⚡
 
 - [Completed daily workout in ELEVATE]()⚡
 
@@ -351,7 +351,7 @@
   - Topics Covered Today:-
     - 5.5 Switch case9 in java
 
-- [Solved Few Verbal Aptitude question in Indiabix]()    
+- [Solved Few Verbal Aptitude question in Indiabix](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Apti/2021/July/July%209.JPG)    
 #### Videos ⚡ ####
 
 - Watched a Video in the topic:
@@ -364,12 +364,12 @@
 
     ---
 
-## Day /.05.2021 ##
+## Day 163/07.10.2021 ##
 
 - GAMES ⚡
-  - [Chess]()
+  - [Chess](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Chess/July%202021/July%2010.JPG)
 
-- [Solved daily problem in Brilliant.org]()⚡
+- [Solved daily problem in Brilliant.org](www.Brilliant.org)⚡
 
 - [Completed daily workout in ELEVATE]()⚡
 
@@ -390,7 +390,7 @@
   - Topics Covered Today:-
     - 5.6 Loop For, while, do while Java Tutorial Part 10 | Lecture
 
-- [Solved Few Verbal Aptitude question in Indiabix]()    
+- [Solved Few Verbal Aptitude question in Indiabix](https://github.com/GuruVikram02/TASK-PROOFS/blob/master/Apti/2021/July/July%2010.JPG)    
 #### Videos ⚡ ####
 
 - Watched a Video in the topic:
@@ -400,3 +400,16 @@
       
     - [Grit: the power of passion and perseverance | Angela Lee Duckworth](https://youtu.be/H14bBuluwB8)
       >Proofs will be uploaded on 10/07/2021 due to network issues
+
+      ---
+
+## Day 164/11.07.2021 ##
+
+- GAMES ⚡
+  - [Chess]()
+
+- [Completed daily workout in ELEVATE]()⚡
+
+- [Typing practice]()⚡
+
+- [Completed daily workout in LUMOSITY]()⚡   
