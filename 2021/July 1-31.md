@@ -413,3 +413,14 @@
 - [Typing practice]()⚡
 
 - [Completed daily workout in LUMOSITY]()⚡   
+
+## Day 165/12.07.2021 ##
+
+- GAMES ⚡
+  - [Chess]()
+
+- [Completed daily workout in ELEVATE]()⚡
+
+- [Typing practice]()⚡
+
+- [Completed daily workout in LUMOSITY]()⚡ 
