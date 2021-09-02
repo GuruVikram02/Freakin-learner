@@ -446,3 +446,5 @@
 - [Typing practice]()⚡
 
 - [Completed daily workout in LUMOSITY]()⚡
+
+>I was undergoing internship via STEP so i was learning webdevelopment during 15.07.2021 - 31.08.2021 so i cant update my tasks so from now on withought any interruptions my daily tasks updates will be updated :)
