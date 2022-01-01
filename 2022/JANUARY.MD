@@ -8,7 +8,7 @@
   - ✅ [Played Puzzle Rush]()
   - ✅ [Solved Daily Puzzle]()
   - ✅ [Played puzzle battle with random person]()
-- 🤨[Case study ~ ""]()
+- 🤨[Case study ~ " "]()
 - 👂🏻 [Watched a Youtube video ""]()
 - 💰📈 [Finshots (financial news) ~ ""]()
 - 💰📈 [Financial education ~ ""]()
