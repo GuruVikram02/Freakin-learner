@@ -337,4 +337,4 @@
 - 👂🏻 [Watched a Youtube video ""]()
 - 💰📈 [Finshots (financial news) ~ ""]()
 - 💰📈 [Financial education ~ ""]()
-</p></details>
+</p></details> 
