@@ -338,3 +338,19 @@
 - 💰📈 [Finshots (financial news) ~ ""]()
 - 💰📈 [Financial education ~ ""]()
 </p></details> 
+
+<details><summary><u>Day 309</u></summary><p>
+
+- ✅ [Completed  Daily Workout Problem in Elevate]()
+- ✅ [Completed Daily Workout Problem in lumosity]()
+- ✅ [Solved Daily Challenge in Brilliant.org]()
+- ✅ Chess.com 
+  - ✅ [Solved Some Puzzles]()
+  - ✅ [Played Puzzle Rush]()
+  - ✅ [Solved Daily Puzzle]()
+  - ✅ [Played puzzle battle with random person]()
+- 🤨[Case study ~ " "]()
+- 👂🏻 [Watched a Youtube video ""]()
+- 💰📈 [Finshots (financial news) ~ ""]()
+- 💰📈 [Financial education ~ ""]()
+</p></details> 
