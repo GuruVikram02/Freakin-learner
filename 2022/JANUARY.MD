@@ -355,7 +355,7 @@
 - 💰📈 [Financial education ~ ""]()
 </p></details> 
 
-<details><summary><u>Day 310</u></summary><p>
+<details><summary><u>Day 311</u></summary><p>
 
 - ✅ [Completed  Daily Workout Problem in Elevate]()
 - ✅ [Completed Daily Workout Problem in lumosity]()
